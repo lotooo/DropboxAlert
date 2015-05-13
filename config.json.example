@@ -1,0 +1,19 @@
+{
+	"sources" : [
+		{
+			"name" 	: "Cool blog",
+			"url"	: "https://www.dropbox.com/sh/yyyyyyyyyyyy/xxxxxxxxxxxxxxx?dl=0#/",
+			"from"	: "toto@gmail.com",
+			"to"	: ["toto@gmail.com"]
+		}
+	],
+	"smtp": {
+		"host" 		: "smtp.gmail.com",
+		"port" 		: "465",
+		"username"	: "xxxx",
+		"password"	: "xxxyyyzzzz",
+		"use_tls"	: false,
+		"use_ssl"	: true,
+		"debug_level"   : null	
+	}
+}
